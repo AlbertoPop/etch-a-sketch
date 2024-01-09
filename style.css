@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+}
+
+.square{
+    background-color: white;
+    width: 0,390625%;
+    height: 0,390625%;
+
+
+}
+/* div.style.width = "0,390625%";
+div.style.height = "0,390625%"; */
